@@ -1,0 +1,21 @@
+.Main{
+  text-align: center;
+}
+
+.backgroundClass{
+  background-image: url('../../../public/image/backgd.jpg');
+  background-size:cover;
+  height: 520px;
+  width: 100vw;
+  /* pointer-events: none; */
+}
+
+.backgrountext {
+  position: relative; 
+  font-size: 60px;
+  font-weight: 200px;
+  color: white; 
+  Top: 190px;
+  font-family: "bitsCoreINSPIRE";
+}
+

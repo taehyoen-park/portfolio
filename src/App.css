@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  overflow-x: hidden;
 }
 
 .App-logo {
@@ -26,6 +27,21 @@
 
 .App-link {
   color: #61dafb;
+}
+
+@font-face {
+  font-family: "bitsCoreOTP";
+  src: url("C:\workspace\MyWeb\portfolio\src\fonts\VITRO CORE OTF.otf");
+}
+
+@font-face {
+  font-family: "bitsCoreINSPIRE";
+  src: url("C:\workspace\MyWeb\portfolio\src\fonts\VITRO INSPIRE OTF.otf");
+}
+
+@font-face {
+  font-family: "bitsCorePRIDE";
+  src: url("C:\workspace\MyWeb\portfolio\src\fonts\VITRO PRIDE OTF.otf");
 }
 
 @keyframes App-logo-spin {
